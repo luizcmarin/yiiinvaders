@@ -1,0 +1,20 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	background-color: rgb(0, 0, 0);
+}
+
+canvas {
+	outline: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#controls {
+	color: #FFF;
+}
+
+.clear {
+	clear: both;
+}
